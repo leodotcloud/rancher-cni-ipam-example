@@ -1,0 +1,5 @@
+This is an example binary that can be run inside any container running on rancher
+which has access to the metadata.
+
+Usage:
+./rancher-cni-ipam-example <container id>
